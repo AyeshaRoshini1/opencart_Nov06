@@ -1,0 +1,273 @@
+12:59:41.207 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:59:41.348 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+12:59:41.786 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:59:41.932 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+12:59:42.030 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+12:59:42.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+12:59:42.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+12:59:43.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+12:59:43.173 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:02:24.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:02:24.546 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:02:24.961 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:02:25.076 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:02:25.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:02:25.324 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:02:25.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:02:26.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:02:26.227 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:02:26.232 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:03:31.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:03:31.859 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:03:32.309 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:03:32.419 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:03:32.511 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:03:32.656 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:03:32.929 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:03:33.475 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:03:33.574 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:03:33.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:03:58.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:03:58.391 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:03:58.832 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:03:58.948 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:03:59.052 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:03:59.190 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:03:59.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:04:00.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:04:00.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:04:00.063 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:04:56.605 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:04:56.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:04:57.122 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:04:57.211 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:04:57.282 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:04:57.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:04:57.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:04:58.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:04:58.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:04:58.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:05:00.884 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:05:00.963 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+13:05:01.265 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+13:05:01.425 [main] INFO  testCases.TC_002_LoginTest - Email is given
+13:05:01.508 [main] INFO  testCases.TC_002_LoginTest - Password is given
+13:05:01.968 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:05:02.143 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:07:16.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:07:16.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:07:17.221 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:07:17.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:07:17.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:07:17.481 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:07:17.737 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:07:18.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:07:18.331 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:07:18.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:07:20.910 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:07:20.997 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+13:07:21.267 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+13:07:21.399 [main] INFO  testCases.TC_002_LoginTest - Email is given
+13:07:21.483 [main] INFO  testCases.TC_002_LoginTest - Password is given
+13:07:22.002 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:07:22.046 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:07:50.002 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:07:50.099 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:07:50.530 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:07:50.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:07:50.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:07:50.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:07:51.128 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:07:51.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:07:51.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:07:51.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:09:07.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:09:07.710 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:09:08.129 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:09:08.243 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:09:08.337 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:09:08.494 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:09:08.758 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:09:09.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:09:09.392 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:09:09.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:10:24.780 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:10:24.888 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:10:25.320 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:10:25.427 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:10:25.531 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:10:25.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:10:25.927 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:10:26.476 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:10:26.517 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:10:26.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:10:34.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:10:34.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:10:35.337 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:10:35.429 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:10:35.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:10:35.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:10:35.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:10:37.408 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:10:37.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:10:37.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:10:53.749 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Starting TC_003_LoginDataDrivenTest ***
+13:10:53.849 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on My account link
+13:10:54.189 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login link
+13:10:54.363 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Email is given
+13:10:54.451 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Password is given
+13:10:54.818 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login
+13:10:55.325 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Logout
+13:10:55.327 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest ***
+13:10:55.344 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Starting TC_003_LoginDataDrivenTest ***
+13:10:55.400 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on My account link
+13:10:55.644 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login link
+13:10:55.754 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Email is given
+13:10:55.834 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Password is given
+13:10:56.129 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login
+13:11:06.163 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest ***
+13:11:06.166 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Starting TC_003_LoginDataDrivenTest ***
+13:11:06.227 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on My account link
+13:11:06.451 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login link
+13:11:06.558 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Email is given
+13:11:06.644 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Password is given
+13:11:07.032 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login
+13:11:17.057 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest ***
+13:11:17.059 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Starting TC_003_LoginDataDrivenTest ***
+13:11:17.121 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on My account link
+13:11:17.917 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login link
+13:11:18.036 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Email is given
+13:11:18.111 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Password is given
+13:11:18.746 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login
+13:11:28.762 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest ***
+13:11:28.766 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Starting TC_003_LoginDataDrivenTest ***
+13:11:28.840 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on My account link
+13:11:29.190 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login link
+13:11:29.307 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Email is given
+13:11:29.386 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Password is given
+13:11:29.914 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Login
+13:11:30.247 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on Logout
+13:11:30.247 [main] INFO  testCases.TC_003_LoginDataDrivenTest - *** Finished TC_003_LoginDataDrivenTest ***
+13:12:01.202 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:02.153 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:02.232 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:12:02.269 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:12:12.332 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+13:12:22.398 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+13:12:52.279 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:52.383 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:12:52.814 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:12:52.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:12:53.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:12:53.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:12:53.436 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:12:54.000 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:12:54.038 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:12:54.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:12:57.218 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:57.311 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:12:59.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:12:59.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:12:59.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:12:59.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:13:00.176 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:13:02.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:13:02.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:13:02.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:13:34.403 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:13:34.599 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:13:34.684 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:13:34.723 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:13:44.781 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+13:13:54.837 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+13:16:03.072 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:16:03.072 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:16:03.187 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:16:03.196 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:16:03.571 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:16:03.665 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:16:03.742 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:16:03.826 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:16:04.066 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:16:04.155 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:16:04.246 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:16:04.329 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:16:04.425 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:16:04.586 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:16:04.712 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:16:04.715 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:16:04.827 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:16:05.951 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:16:06.003 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:16:06.003 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:17:12.718 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:17:12.845 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:17:12.876 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:17:12.974 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:17:13.249 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:17:13.341 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:17:13.463 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:17:13.551 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:17:13.774 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:17:13.957 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:17:14.045 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:17:14.137 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:17:14.244 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:17:14.281 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:17:14.386 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:17:14.390 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:17:14.626 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:17:15.627 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:17:15.662 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:17:15.662 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:18:03.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:18:03.985 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:18:04.401 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:18:04.523 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:18:04.620 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:18:04.753 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:18:05.012 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:18:05.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:18:05.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:18:05.673 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:18:08.064 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:18:08.138 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+13:18:08.374 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+13:18:08.536 [main] INFO  testCases.TC_002_LoginTest - Email is given
+13:18:08.621 [main] INFO  testCases.TC_002_LoginTest - Password is given
+13:18:08.990 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:18:09.132 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:20:37.980 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:20:38.090 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:20:38.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:20:38.597 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:20:38.698 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:20:38.846 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:20:39.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:20:39.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:20:39.837 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:20:39.841 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:20:42.455 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:20:42.533 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+13:20:42.801 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+13:20:43.001 [main] INFO  testCases.TC_002_LoginTest - Email is given
+13:20:43.093 [main] INFO  testCases.TC_002_LoginTest - Password is given
+13:20:43.528 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:20:43.692 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
+13:23:02.209 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:23:02.302 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account link
+13:23:02.842 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:23:02.956 [main] INFO  testCases.TC_001_AccountRegistrationTest - First Name field is given
+13:23:03.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Second Name field is given
+13:23:03.237 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email field is given
+13:23:03.599 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is given
+13:23:04.372 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:23:04.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Message
+13:23:04.429 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:23:07.886 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:23:08.008 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+13:23:08.408 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+13:23:08.607 [main] INFO  testCases.TC_002_LoginTest - Email is given
+13:23:08.711 [main] INFO  testCases.TC_002_LoginTest - Password is given
+13:23:09.637 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:23:09.810 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest ***
